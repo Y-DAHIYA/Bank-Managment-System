@@ -30,19 +30,19 @@ MySQL Server
 
 After running the application, you will be presented with a main menu offering the following options:
 
-Create new account
+1. Create new account
 
-Display details of account holder(Sorted by account number, customer name, customer balance)
+2. Display details of account holder(Sorted by account number, customer name, customer balance)
 
-Search record details by account number
+3. Search record details by account number
 
-Update account details
+4. Update account details
 
-Delete account
+5. Delete account
 
-Transactions (Debit, Credit, Withdraw)
+6. Transactions (Debit, Credit, Withdraw)
 
-Exit
+7. Exit
 
 # Acknowledgements
 
