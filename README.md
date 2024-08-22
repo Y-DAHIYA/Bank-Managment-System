@@ -32,13 +32,7 @@ After running the application, you will be presented with a main menu offering t
 
 Create new account
 
-Display details of account holder
-
-  # Sorted by account number
-
-  # Sorted by customer name
-
-  # Sorted by customer balance
+Display details of account holder(Sorted by account number, customer name, customer balance)
 
 Search record details by account number
 
